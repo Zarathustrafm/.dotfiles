@@ -1,0 +1,83 @@
+#!/bin/sh
+sudo pacman -Syu make fakeroot yay
+sleep 3
+yay -Sy \
+    alacritty \
+    alsa-firmware \
+    alsa-utils \
+    android-tools \
+    android-udev \
+    audacity \
+    brave-browser \
+    cmake \
+    cmatrix \
+    coreutils \
+    deluge \
+    discord \
+    dolphin \
+    ark \
+    dolphin-plugins \
+    dust \
+    figlet \
+    filelight \
+    firefox \
+    flameshot \
+    fzf \
+    gamemode \
+    gamescope \
+    gcc \
+    gnome-disk-utility \
+    gparted \
+    grub \
+    gwenview \
+    htop \
+    joplin-appimage \
+    java-runtime-common \
+    jdk-openjdk \
+    jre-openjdk \
+    jre8-openjdk \
+    jre \
+    jdk \
+    kate \
+    kdenlive \
+    libreoffice-fresh \
+    lolcat \
+    lua \
+    lutris \
+    neofetch \
+    neovim \
+    networkmanager \
+    obs-studio \
+    okular \
+    onlyoffice-desktopeditors \
+    ranger \
+    shellcheck \
+    soulseekqt \
+    speedtest-cli \
+    spotify \
+    tabnine \
+    tetrio-desktop \
+    torbrowser-launcher \
+    typescript \
+    vlc \
+    wine \
+    winetricks \
+    yt-dlp \
+    z \
+    zathura \
+    zathura-pdf-mupdf \
+    zip \
+    zoom \
+    zsh \
+    zsh-autosuggestions \
+    zsh-completions \
+    zsh-history-substring-search \
+    todoist-appimage \
+    bat \
+    tauon-music-box \
+    gnome-sound-recorder \
+    starship \
+    stow
+
+
+# Install Nvidia drivers, Pipewire, Easyeffects for yourself

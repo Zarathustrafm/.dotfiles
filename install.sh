@@ -1,5 +1,5 @@
 #!/bin/sh
-cd ~
+cd ~/
 echo "\n Wide upgrade and installing base-devel: \n"
 sudo pacman -Syy
 sudo pacman -Syu base-devel go git
@@ -10,9 +10,10 @@ cd ~/Downloads
 git clone https://aur.archlinux.org/yay.git
 cd yay-git
 makepkg -si
-sleep 3
+sleep 1
 echo "\n Installing personal files: \n"
-sleep 3
+sleep 2
+cd ~/
 yay -S \
     alacritty \
     android-tools \
@@ -64,11 +65,15 @@ yay -S \
     okular \
     ranger \
     shellcheck \
+    starship \
     soulseekqt \
     speedtest-cli \
     spotify \
+    steam \
+    stow \
     tabnine \
     tetrio-desktop \
+    tor \
     torbrowser-launcher \
     vlc \
     wine \
@@ -86,9 +91,4 @@ yay -S \
     todoist-appimage \
     bat \
     tauon-music-box \
-    gnome-sound-recorder \
-    starship \
-    stow
-
-
-# Install Nvidia drivers, Pipewire, Easyeffects for yourself
+    gnome-sound-recorder

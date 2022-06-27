@@ -1,0 +1,76 @@
+#       _                 _ _   _         ____   ____ 
+#  __ _| | __ _  ___ _ __(_) |_| |_ _   _|  _ \ / ___|
+# / _` | |/ _` |/ __| '__| | __| __| | | | |_) | |    
+#| (_| | | (_| | (__| |  | | |_| |_| |_| |  _ <| |___ 
+#\__,_|_|\__,_|\___|_|  |_|\__|\__|\__, |_| \_\\____/
+#                                     //
+
+env:
+  TERM: alacritty
+
+window:
+    dimensions:
+        columns: 0
+        lines: 0
+    opacity: 0.65
+    padding:
+      x: 2
+      y: 2
+    decorations: None
+    startup_mode: Maximized
+    title: Terminal
+    class:
+        instance: Alacritty
+        general: Alacritty
+
+scrolling:
+    history: 10000
+    multiplier: 4
+
+font:
+    normal:
+        family: "PT Mono"
+        style: Regular
+    bold:
+        family: "PT Mono"
+        style: Bold
+    size: 10.0
+
+shell:
+    program: /bin/zsh
+
+      #colors:
+      #   primary:
+      #       background: '#18042C'
+      #       foreground: '#dedede'
+      #   selection:
+      #       text: '#b5787b'
+      #       background: '#300063'
+          #   normal:
+          #       black:   '#1d1f21'
+          #       red:     '#cc6666'
+          #       green:   '#b5bd68'
+          #       yellow:  '#f0c674'
+          #       blue:    '#81a2be'
+          #       magenta: '#b294bb'
+          #       cyan:    '#8abeb7'
+          #       white:   '#c5c8c6'
+          #   bright:
+          #       black:   '#666666'
+          #       red:     '#d54e53'
+          #       green:   '#b9ca4a'
+          #       yellow:  '#e7c547'
+          #       blue:    '#7aa6da'
+          #       magenta: '#c397d8'
+          #       cyan:    '#70c0b1'
+          #       white:   '#eaeaea'
+
+selection:
+    save_to_clipboard: true
+
+mouse:
+    hide_when_typing: true
+
+import:
+    - ~/.config/alacritty/dracula.yml
+

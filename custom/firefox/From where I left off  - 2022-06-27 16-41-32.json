@@ -1,0 +1,548 @@
+[
+  {
+    "windows": {
+      "1": {
+        "2": {
+          "id": 2,
+          "index": 0,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656342574356,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=_Ig_s9j4MuU&list=PL1tiwbzkOjQxD0jjAE7PsWoaCrs0EkBH2&index=5",
+          "title": "The Midnight Chase | Critical Role: THE MIGHTY NEIN | Episode 3 - YouTube",
+          "favIconUrl": "chrome://global/skin/icons/info.svg"
+        },
+        "3": {
+          "id": 3,
+          "index": 1,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656333117111,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=snzrGeitO8A&list=RDsnzrGeitO8A&index=2",
+          "title": "Libra Sonatine 3. Fuoco - Roland dyens (Haeun Jang 장하은) - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "4": {
+          "id": 4,
+          "index": 3,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656251956371,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+          "title": "C++ - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "5": {
+          "id": 5,
+          "index": 4,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656147500029,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 4,
+          "url": "https://www.youtube.com/watch?v=KRGPNi9mEMo&list=PL6xSOsbVA1eb_QqMTTcql_3PdOiE928up&index=2",
+          "title": "[ C++ & SFML - Simple 2D Games ] - Linking SFML and general information - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "6": {
+          "id": 6,
+          "index": 5,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656152027578,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 4,
+          "url": "https://www.youtube.com/watch?v=wptJyb1c04M&list=PLIM5iw4GHbNW2nleNK5XIvyhZzGiaiBfp&index=13",
+          "title": "Modern OpenGL Eğitim Serisi - GLAD ve GLM Kütüphanesinin Yüklenmesi - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "7": {
+          "id": 7,
+          "index": 6,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656151887246,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 4,
+          "url": "https://learnopengl.com/",
+          "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACGElEQVQ4T2NkoBAwUqifAacBYrWr/gsICzPw8nAw/Pz5n+FKtg1WtRiCYv5JcRJeyQv///nNwMLGyvCflYnhxaPHDBxc/AwPStwx1GMI8Nu5KfI7Jtz7D5T59uYTg7SMJAMDOxvDyzevGF62xuM3QK5j0/+vJ3cxCNn4MbBzcDB8+faZgZ+Pn+HevbsMYsJiDC82zWRQjixiuJRtBzcIztCdsv//s1cvGd42RYDF+MqX/JeUEGMQ4ONlePzkOcOz+iBGh/TKkMfKNqvZ2TkZruU7gdXBDdCasvf/h08fGN5tWsAg7pfGwMbGxCAoKMRw994TBjUNNYYvHz8yXJ5QzyCdWMTA+O8Xw5PaYFQDDGcc/3/96iUGyc9PGP6oWTCICwkz/GL+x/D5wycGZmYWBgkREYb766YzsNkEMuioazBs9lVANUBzwt7/z58/Zvh+cCODXEgaOHmAnPr92xcGZhY2BhZ2FoZb8zsZRH1TwOIPKn1QDYAlKC7rYC8xn8StMAUwccWOrf/vV3jjjwWzwDjhU+sXvf3//z+bdVKuDRMLG9fPD+/OMLBxyZ5eOu00yDAVz1DRO9tXv4YZjGKifMu6/w9rgsBi4g1r/3NzczL8+PmD4eunrwwfu2IZfUrbOi8J6JQ9qvbDjEbZ5vX/H9cGMnJZhfjzuEZseNUYgmK4BNDAFw2QkOcumff/a08S9jAgNXNRnBsBqlO1EUoW7u4AAAAASUVORK5CYII="
+        },
+        "8": {
+          "id": 8,
+          "index": 7,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656342114807,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 4,
+          "url": "https://www.youtube.com/watch?v=oD1dvfbyf6A&list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2&index=16",
+          "title": "Buffer Layout Abstraction in OpenGL - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "9": {
+          "id": 9,
+          "index": 8,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1888,
+          "height": 1019,
+          "lastAccessed": 1656344110562,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "openerTabId": 4,
+          "url": "https://www.udemy.com/course/komple-sifirdan-web-gelistirme-kursu/learn/lecture/18894980#overview",
+          "title": "Modern Web Geliştirme Kursu | Sıfırdan Sektörün Yükseklerine | Udemy",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAdVBMVEWmMvAAAACnNfD///+mMvCmMvDYqPimM/CmMvCpNPP16/2yTvLUKv+oNPGnM/CmMvDZq/m7ZvS2JP+oMvL9+f/NjverPfHMM//gufr58v6qO/Hw3PyqNvitQvHVoPinMvGlNPKrNfOoM/K4X/Ps0/zTm/ju2PyQ+U/IAAAAJ3RSTlP/AP///NT/870t//8Gk5Hy//8Hjf///wX/////Kv//lo4rkP/////7sIKdAAAAn0lEQVR4nF2P1w7DIAxFLyFkEKDZe3f8/yfW9lNVkPDR0bWwoejkwaSpuXNmEvURA1EExN6xqDMAz9enopI5EgfBqK3VI4FXyDnflv38brnrQiAfFfSgIIETRngDNrEGKSd0AiSaEw+6f4JbfoTBLaIEShGNfAu7zP1iCeIVylPt9DTpjiDQpI5Hr/ZdRh94Oee5i/NhkG2Vuk5ev1mZv5JhBrrZp9ntAAAAAElFTkSuQmCC"
+        },
+        "10": {
+          "id": 10,
+          "index": 9,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656320559379,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://linuxjourney.com/lesson/rsync",
+          "title": "Learning | Linux Journey",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAmklEQVQ4T2NkoBAwYtOvYxfwH5v4lUMbMNRjCODSDDMQ3RAUAwhpxmYI3ABiNaMbAjaAVM3IhmAYsLfFB2+8ONdsgcuDwoMR3XaQAVKO6QzP9s9EMUjcLoXh5aE5DMgGgBRgNQCfE/AagOz82/MmopijmpQP5yMbAncBNr/DDEHWDDMFZgheA4jxyiAyAORcQmkA3f8Y0UiOAQBepVGStbdlcgAAAABJRU5ErkJggg=="
+        },
+        "11": {
+          "id": 11,
+          "index": 10,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656320559172,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://vclock.com/timer/#countdown=01:00:00&enabled=0&seconds=3595&onzero=2&title=Work&sound=glow&loop=1",
+          "title": "59:55 - Work",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAA2FBMVEX///8AAAD9/v8WZcCkw+d8qdylxOcAVf8WZr+dv+U/f7/o8Pkda8LK3PEfbMMxd8h0o9n///8vdscSZ8LR4fMqdMZXkdL+/v4basL+/v4tdsf0+PzY5vQudscaZ8IgbMMXaL8dasKCrd4fa8MWZsLu8/oVZr/r8vqnxef+/v6dvuYZZsFFhM1Dhc3y9vyiweUkcMW+1O1+qtxqndc1essiaL+Ls+D////+/v41esityekibsMxdsmhweYmcMX4+v1Jh84WZ78kb8RaktP+/v4YZsFCg8shacIe06meAAAASHRSTlP/AP/+////Bvv/CP/7//7+/wLvKv/I//fXGvn///+W2yz///6T/5D//3Watv+useOa////oyz/gbfy//um/5///5T//4X5sS5NG6SzAAAAvUlEQVR4nEVPVbYCUQzLlVGGGeDhrs9wd7f974gWzU/TtDlNIQjXdmzpz/8zzElwRyowHKcaT02jLFgJ35F4oBMlYVMLP1vkkyeBL2UCssF9qBVKZVAs0P768APkdnHgDyWDZ5UIZHJBbAabHMBE5SNVqo0uzr8sbAuVI58yPaTZAvSHOS5GDPvsKwRBBhc6qz+CVmOIb+8dLOyvKKnb9PTdJXUtYfFzVl1lB9o0AtVz798KUa6nbbtULDO/AcMBDYFnjN5+AAAAAElFTkSuQmCC"
+        },
+        "12": {
+          "id": 12,
+          "index": 11,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656320558975,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://translate.google.com/?sl=en&tl=tr&op=translate",
+          "title": "Google Translate",
+          "favIconUrl": "data:image/png;base64,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"
+        },
+        "13": {
+          "id": 13,
+          "index": 12,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656320558846,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=ydCSSgwZjzs",
+          "title": "Create a Custom PDF Viewer With JavaScript - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "14": {
+          "id": 14,
+          "index": 13,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656320558697,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo",
+          "title": "Computer Science - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "15": {
+          "id": 15,
+          "index": 14,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1888,
+          "height": 1019,
+          "lastAccessed": 1656344197863,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://www.youtube.com/watch?v=pouX5VvX0_Q&t=1190s",
+          "title": "Installing Xorg And A Window Manager In Arch Linux - YouTube",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtklEQVQ4T2NkoBAwUqifAW7AfwYGAaBhBlADHXAYfAAqfgGo8QOIDTYAqDkBSM0n0TWJQM0LGIGaQbaeJ1EzTLkhyIAAIG89mQYkggxoAGqux2rAgwdAzwF9dwDmdQxVjfgN+A80HgQ2bmRgKChgYAAZiAqINODgQYhLSDYApAFk84YNuIII7ALcgSgATBofwNGNC4ADkbJoBBlNUUKCuQ0tKYNcBUra6AAWn6hJGZ8nCclRnBsBzJ03KZWC+NsAAAAASUVORK5CYII="
+        },
+        "16": {
+          "id": 16,
+          "index": 15,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": true,
+          "incognito": false,
+          "width": 0,
+          "height": 0,
+          "lastAccessed": 1656342582837,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://translate.google.com/?sl=en&tl=tr&text=jurisdiction&op=translate",
+          "title": "Google Translate",
+          "favIconUrl": "chrome://global/skin/icons/info.svg"
+        },
+        "17": {
+          "id": 17,
+          "index": 16,
+          "windowId": 1,
+          "highlighted": false,
+          "active": false,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1888,
+          "height": 1019,
+          "lastAccessed": 1656348060902,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": true,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": 15,
+          "cookieStoreId": "firefox-default",
+          "url": "https://kur.doviz.com/serbest-piyasa/amerikan-dolari",
+          "title": "Canlı Dolar Kuru Ne Kadar? Güncel Dolar/TL Alış Satış Fiyatı ve Dolar TL Hesaplama | Doviz.com",
+          "favIconUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACUUlEQVQ4T2NkoBAwUqifgWgD/v//zwgE/9EtBBsAlGTff3lR9r3X5615OERf2muETZUUVr0KleOZPv3uwkuXPvjy8bG+joyUyzY0FNwAM4jx//8Pgh0bUg4+f39HV5hHmoGHU5DhydsbP6NsmxNNlT2Xr179qO/o0beFgYHSDPfvf2U4derdt64uI2UeHsYXIEMYN5zs69p3dVGpioQxQ4BpEcObz08ZFh2sZGBj5fzYGX1YqqPj+j5raxFzOTkuhjVrnjDcuvWFISdH1VtPj38b2ICujRFngTYaGSl5MDhpxzLMP1DG8BZoCAjk+8yxPb1PPOT+/S/5VlbCDPv2vWJ48+bnd5ALuLkZn4MNmLQt6cCdF+fsQRxzVX8GW40whp7N0WADKoKWGUvya96ChQEvL8vrqCh51DA4dG1V5poTbdMiresZxPgVGC493Mew/+piIFvuRnXQRi2gOUxAzA7EP4Gx8BcY4Kybb3xM+vaHgS9ch38mOBaWHWmYfebu9hQFUR2GOy/OMvBziT/Mcp3iLfr5kdzvveXLmWXtef9zi3SzW1dWzDj9tuvOu5+lIH3cbEwb4Ong8bsbeo9eXzHnZhd6qy/vuB1o2/cfC63vMan4KP7/9Ijh752tDJxRe7XLznL3a4iwu/GyMTGsv/HxId6E9H2+5QMW4wz5f4+PMPy9txNowHadMz+UpWafebP21dffHClGwpl4Dfhzd7f37z25Sxl+feNlMkzvZbepLoMlPCDNCnTlF4JJGRhobEDFbCDF2PINQQMIZTaKDQAA4Pfyl1KjjUgAAAAASUVORK5CYII="
+        },
+        "19": {
+          "id": 19,
+          "index": 2,
+          "windowId": 1,
+          "highlighted": true,
+          "active": true,
+          "attention": false,
+          "pinned": false,
+          "status": "complete",
+          "hidden": false,
+          "discarded": false,
+          "incognito": false,
+          "width": 1888,
+          "height": 1019,
+          "lastAccessed": 1656348092227,
+          "audible": false,
+          "mutedInfo": {
+            "muted": false
+          },
+          "isArticle": false,
+          "isInReaderMode": false,
+          "sharingState": {
+            "camera": false,
+            "microphone": false
+          },
+          "successorTabId": -1,
+          "cookieStoreId": "firefox-default",
+          "url": "https://duckduckgo.com/",
+          "title": "DuckDuckGo — Privacy, simplified.",
+          "favIconUrl": "data:image/png;base64,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"
+        }
+      }
+    },
+    "windowsNumber": 1,
+    "windowsInfo": {
+      "1": {
+        "id": 1,
+        "focused": true,
+        "top": 21,
+        "left": 0,
+        "width": 1918,
+        "height": 1057,
+        "incognito": false,
+        "type": "normal",
+        "state": "normal",
+        "alwaysOnTop": false,
+        "title": "DuckDuckGo — Privacy, simplified. — Mozilla Firefox"
+      }
+    },
+    "tabsNumber": 17,
+    "name": "From where I left off",
+    "date": 1656348092200,
+    "lastEditedTime": 1656348092200,
+    "tag": [],
+    "sessionStartTime": 1656343198300,
+    "id": "11e33ff4-03c0-4dd5-9b2a-cd6b06d054eb"
+  }
+]

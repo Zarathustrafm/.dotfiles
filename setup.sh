@@ -17,7 +17,7 @@ stow vim
 stow zsh
 
 # Install vim-plug
-sh -c 'curl -fLo $$HOME/.config/nvim/autoload/plug.vim --create-dirs \
+sh -c 'curl -fLo $HOME/.config/nvim/autoload/plug.vim --create-dirs \
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 # Install nvim plugins

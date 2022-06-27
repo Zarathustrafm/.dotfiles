@@ -1,28 +1,34 @@
 #!/bin/sh
-sudo pacman -Syu make fakeroot yay
+cd ~
+echo "\n Wide upgrade and installing base-devel: \n"
+sudo pacman -Syy
+sudo pacman -Syu base-devel go git
+sleep 1
+echo "\n Installing yay: \n"
+mkdir -p Downloads
+cd ~/Downloads
+git clone https://aur.archlinux.org/yay.git
+cd yay-git
+makepkg -si
 sleep 3
-yay -Sy \
+echo "\n Installing personal files: \n"
+sleep 3
+yay -S \
     alacritty \
-    alsa-firmware \
-    alsa-utils \
     android-tools \
     android-udev \
     audacity \
-    brave-browser \
     cmake \
     cmatrix \
-    coreutils \
     deluge \
+    deluge-gtk \
     discord \
-    dolphin \
     ark \
-    dolphin-plugins \
     dust \
     figlet \
     filelight \
     firefox \
     flameshot \
-    fzf \
     gamemode \
     gamescope \
     gcc \
@@ -41,15 +47,21 @@ yay -Sy \
     kate \
     kdenlive \
     libreoffice-fresh \
+    lightdm \
+    lightdm-webkit2-greeter \
     lolcat \
     lua \
     lutris \
-    neofetch \
+    mlocate \
     neovim \
     networkmanager \
+    npm \
+    nvidia \
+    nvidia-utils \
+    nvidia-settings \
+    nvidia-prime \
     obs-studio \
     okular \
-    onlyoffice-desktopeditors \
     ranger \
     shellcheck \
     soulseekqt \
@@ -58,7 +70,6 @@ yay -Sy \
     tabnine \
     tetrio-desktop \
     torbrowser-launcher \
-    typescript \
     vlc \
     wine \
     winetricks \
